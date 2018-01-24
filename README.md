@@ -1,6 +1,6 @@
 # goCryptoAlert
 
-Simple Go notifier about the crypto value change Edit
+Simple Go notifier about the crypto value change
 
 ## Compatibility
 
